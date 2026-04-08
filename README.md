@@ -30,3 +30,5 @@ User → CloudFront → S3
 
 ## Outcome
 Successfully hosted a static website with high availability and HTTPS.
+Screen shots 
+Added screen shots for reference
