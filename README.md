@@ -32,3 +32,6 @@ User → CloudFront → S3
 Successfully hosted a static website with high availability and HTTPS.
 Screen shots 
 Added screen shots for reference
+
+## Architecture Diagram
+architecture.png
