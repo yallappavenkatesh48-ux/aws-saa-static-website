@@ -1,0 +1,15 @@
+Food Express is a static food ordering web application built using HTML, CSS, and JavaScript and deployed on Amazon Web Services (AWS) using Amazon S3 Static Website Hosting.
+The project allows users to view a food menu, add items to an order, and place an order through a simple front‑end interface.
+This project demonstrates hands‑on experience with AWS core services, static web hosting, and cloud security best practices.
+
+Technologies Used
+
+Frontend: HTML5, CSS3, JavaScript
+Cloud Platform: Amazon Web Services (AWS)
+AWS Services:
+
+Amazon S3 (Static Website Hosting)
+AWS IAM & S3 Bucket Policy
+
+
+Version Control: Git & GitHub
